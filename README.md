@@ -7,10 +7,10 @@ Admin page : http://localhost/shopping/admin
 
 Login Details For User :
 
-Username : megha.maitin@gmail.com
+Username : preeti.poddar04@gmail.com
 Password : Test@123
 
-Username : ebajaj@gmail.com
+Username : test@gmail.com
 Password : Test@123
 
 For Admin :
